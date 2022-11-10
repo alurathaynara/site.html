@@ -2,6 +2,9 @@ body {
    background: #cccccc
 }
 
+#banner {
+}
+
 h1 {
     style="text-align: center"
 }
@@ -14,6 +17,7 @@ p {
    font=size: 20px
 }
 
-em strong {
+
+em strong
     color: #FF0000;
 }
