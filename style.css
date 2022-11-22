@@ -18,8 +18,11 @@ p {
    font=size: 20px
 }
 
-
-em strong
+em strong  {
     color: #FF0000;
-}
+|
  
+   .itens {
+        font-style: italic
+   }
+   
