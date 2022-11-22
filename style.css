@@ -3,12 +3,13 @@ body {
 }
 
 #banner {
-
+   width: 100%;
 }
 
+.principal{
 
-
-h1 {
+}
+   h1 {
     style="text-align: center"
 }
 
@@ -28,3 +29,11 @@ em strong  {
         font-style: italic
    }
    
+   .beneficios {
+        background: #FFFFFF;
+   }
+   
+   
+h2{
+    text-align;center;
+   }
