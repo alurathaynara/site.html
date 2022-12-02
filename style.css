@@ -13,10 +13,14 @@ body {
     style="text-align: center"
 }
 
-p {
+.titulo localizado{
+     padding-left:20px;
+}
+ 
     text-align: center;
 }
 
+p {
  #missão{
    font=size: 20px
 }
